@@ -4,6 +4,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GuoLei1990)
 
+![GuoLei1990's github stats](https://github-readme-status.vercel.app/api?username=GuoLei1990&show_icons=true&hide_border=true)
+
 <!--
 **GuoLei1990/GuoLei1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
