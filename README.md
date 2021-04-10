@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Ant Group!
+- 🌱 I‘m doing my best to build an Oasis!
 
 <!--
 **GuoLei1990/GuoLei1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
