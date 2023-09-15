@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Ant Group!
-- 🌱 I‘m doing my best to build Oasis!
+- 🌱 I‘m doing my best to build Galacean!
 - ⚡ My work and interest are both developing 3D engine!
 
 <!--
